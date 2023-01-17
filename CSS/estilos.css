@@ -1,0 +1,40 @@
+header {
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    margin: 0px;
+}
+
+html,
+body {
+    margin: 0px;
+    background-color: rgb(24, 73, 24);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+#NewGame {
+    background-color: rgb(0, 156, 253);
+    color: white;
+}
+
+.botones {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    margin-right: -100px;
+    margin-left: 10px;
+}
+
+h3 {
+    margin-left: 10px;
+}
